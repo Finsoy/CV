@@ -1,2 +1,2 @@
 CV
-https://Finsoy.github.io/rsschool-cv/
+https://Finsoy.github.io/CV/
